@@ -24,6 +24,6 @@ AI 在这个工作流中不是代写者，而是：
 
 ## 使用方式
 
-普通用户可以直接复制 `prompts/` 中的 Markdown 内容到常用 LLM 中使用。
+可以直接复制 `prompts/` 中的 Markdown 内容到常用 LLM 中使用。
 
-如果使用支持 Skill 的 Agent，可以将 `skills/` 中对应的 Skill 安装到 Agent 环境中。
+或者使用支持 Skill 的 Agent，可以将 `skills/` 中对应的 Skill 安装到 Agent 环境中。
