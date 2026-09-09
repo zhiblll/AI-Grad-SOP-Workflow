@@ -12,7 +12,6 @@ An AI-assisted workflow for writing and customizing SOPs for graduate programs.
 目前主要包含：
 
 - SOP 第一版开发：材料分析、经历挖掘、多轮访谈、叙事构建
-- SOP 学校定制：根据目标项目要求对已有 SOP 进行分析和调整
 
 ## 核心理念
 
